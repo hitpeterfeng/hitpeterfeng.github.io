@@ -100,10 +100,9 @@ disqus:
 #         client_secret: 52d70c3786f17bda45f9bef78e1d5ed9d98d23c1
 # # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: hitpeterfeng
-    repo: gittalk.github.io
-    clientID: b61b15948969a2beef90
-    clientSecret: 8f99adf8018af749d1eec671dec74551e4f6920c
+    repo: blog-comment
+    clientID: b910303d85f6cb1ace68
+    clientSecret: af8a428a4161c23baf6d38147772d2f7a3536be7
     distractionFreeMode: true
 # # 在使用其它评论组件时可点击显示 Disqus
 # lazy_load_disqus : false
