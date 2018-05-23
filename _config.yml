@@ -94,6 +94,7 @@ gitalk:
     owner: hitpeterfeng
     admin: hitpeterfeng
     distractionFreeMode: true
+    labels: ['Gitalk']
 
 # ---------------- #
 #      Search      #
