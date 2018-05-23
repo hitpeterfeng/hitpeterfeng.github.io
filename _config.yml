@@ -100,12 +100,14 @@ comments_provider: gitalk
 #         client_secret: b255b099d214454020bd8944020b936103cc00e5
 # # https://github.com/gitalk/gitalk#install
 gitalk:
+    enable: true
     owner: hitpeterfeng
     admin: hitpeterfeng
     repo: blog-comments
     clientID: 240624039eb6f2b079ec
     clientSecret: b255b099d214454020bd8944020b936103cc00e5
     distractionFreeMode: true
+    labels: ['Gitalk']
 # # 在使用其它评论组件时可点击显示 Disqus
 # lazy_load_disqus : false
 
