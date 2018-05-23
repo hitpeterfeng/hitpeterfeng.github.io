@@ -87,7 +87,7 @@ repository: hitpeterfeng/hitpeterfeng.github.io
 #      Comments    #
 # ---------------- #
 comment:
-    enable: false    #
+    enable: true    #
     disqus: disqus_8PR6LGWGVh
 
 gitalk:
