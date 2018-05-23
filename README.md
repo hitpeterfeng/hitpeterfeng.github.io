@@ -1,6 +1,6 @@
-# 码志
+# Fighting for a beter life!
 
-我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<https://hitpeterfeng.github.io>，欢迎 Star 和 Fork。
 
 ## 概览
 
