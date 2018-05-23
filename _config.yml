@@ -102,7 +102,7 @@ comments_provider: gitalk
 gitalk:
     owner: hitpeterfeng
     admin: hitpeterfeng
-    repo: blog-comments.github.io
+    repo: blog-comments
     clientID: 240624039eb6f2b079ec
     clientSecret: b255b099d214454020bd8944020b936103cc00e5
     distractionFreeMode: true
