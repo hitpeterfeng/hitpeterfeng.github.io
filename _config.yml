@@ -100,6 +100,7 @@ disqus:
 #         client_secret: 52d70c3786f17bda45f9bef78e1d5ed9d98d23c1
 # # https://github.com/gitalk/gitalk#install
 gitalk:
+    owner: hitpeterfeng
     repo: blog-comment
     clientID: b910303d85f6cb1ace68
     clientSecret: af8a428a4161c23baf6d38147772d2f7a3536be7
