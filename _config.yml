@@ -88,21 +88,21 @@ repository: hitpeterfeng/hitpeterfeng.github.io
 # ---------------- #
 # support provider: disqus, gitment, gitalk
 comments_provider: gitalk
-# https://disqus.com
-# disqus:
-#    username: disqus_hitpeterfeng
-# # https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: hitpeterfeng
-    repo: blog-comments
-    oauth:
-        client_id: 240624039eb6f2b079ec
-        client_secret: b255b099d214454020bd8944020b936103cc00e5
+# # https://disqus.com
+# # disqus:
+# #    username: disqus_hitpeterfeng
+# # # https://imsun.net/posts/gitment-introduction/
+# gitment:
+#     owner: hitpeterfeng
+#     repo: blog-comments
+#     oauth:
+#         client_id: 240624039eb6f2b079ec
+#         client_secret: b255b099d214454020bd8944020b936103cc00e5
 # # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: hitpeterfeng
+    admin: hitpeterfeng
     repo: blog-comment
-    #new_token: 895e63c1f2490345d8de6d75afad2fd8f5bc78ed
     clientID: b910303d85f6cb1ace68
     clientSecret: af8a428a4161c23baf6d38147772d2f7a3536be7
     distractionFreeMode: true
