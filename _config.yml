@@ -102,9 +102,9 @@ comments_provider: gitalk
 gitalk:
     owner: hitpeterfeng
     admin: hitpeterfeng
-    repo: blog-comment
-    clientID: b910303d85f6cb1ace68
-    clientSecret: af8a428a4161c23baf6d38147772d2f7a3536be7
+    repo: blog-comments
+    clientID: 240624039eb6f2b079ec
+    clientSecret: b255b099d214454020bd8944020b936103cc00e5
     distractionFreeMode: true
 # # 在使用其它评论组件时可点击显示 Disqus
 # lazy_load_disqus : false
