@@ -86,38 +86,15 @@ repository: hitpeterfeng/hitpeterfeng.github.io
 # ---------------- #
 #      Comments    #
 # ---------------- #
-# support provider: disqus, gitment, gitalk
-# # https://disqus.com
-# # disqus:
-# #    username: disqus_hitpeterfeng
-# # # https://imsun.net/posts/gitment-introduction/
-# gitment:
-#     owner: hitpeterfeng
-#     repo: blog-comments
-#     oauth:
-#         client_id: 240624039eb6f2b079ec
-#         client_secret: b255b099d214454020bd8944020b936103cc00e5
-# # https://github.com/gitalk/gitalk#install
-# gitalk:
-#     enable: true
-#     owner: hitpeterfeng
-#     admin: hitpeterfeng
-#     repo: blog-comments
-#     clientID: 240624039eb6f2b079ec
-#     clientSecret: b255b099d214454020bd8944020b936103cc00e5
-#     distractionFreeMode: true
-#     labels: ['Gitalk']
 gitalk:
     enable: true    #是否开启Gitalk评论
     clientID: 240624039eb6f2b079ec
     clientSecret: b255b099d214454020bd8944020b936103cc00e5
-    repo: blog-comments.github.io    #仓库名称
-    owner: hitpeterfeng    #github用户名
+    repo: blog-comments
+    owner: hitpeterfeng
     admin: hitpeterfeng
-    distractionFreeMode: true #是否启用类似FB的阴影遮罩
+    distractionFreeMode: true
     labels: ['Gitalk']
-# # 在使用其它评论组件时可点击显示 Disqus
-# lazy_load_disqus : false
 
 # ---------------- #
 #      Search      #
