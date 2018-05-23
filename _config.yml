@@ -86,6 +86,7 @@ repository: hitpeterfeng/hitpeterfeng.github.io
 # ---------------- #
 #      Comments    #
 # ---------------- #
+comment_provider: gitalk
 gitalk:
     enable: true    #是否开启Gitalk评论
     clientID: 240624039eb6f2b079ec
