@@ -92,7 +92,7 @@ gitalk:
     enable: true    #是否开启Gitalk评论
     clientID: 240624039eb6f2b079ec
     clientSecret: b255b099d214454020bd8944020b936103cc00e5
-    repo: hitpeterfeng
+    repo: hitpeterfeng.github.io
     admin: hitpeterfeng
     distractionFreeMode: true
     labels: ['Gitalk']
