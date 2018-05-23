@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Wiki
-description: 人越学越觉得自己无知
-keywords: 维基, Wiki
+description: 快速学习的能力
+keywords: Shortcuts, Tutorial
 comments: false
-menu: 维基
+menu: 快捷键
 permalink: /wiki/
 ---
 
