@@ -86,13 +86,13 @@ repository: hitpeterfeng/hitpeterfeng.github.io
 # ---------------- #
 #      Comments    #
 # ---------------- #
-comment_provider: gitalk
+comments_provider: gitalk
 gitalk:
+    owner: hitpeterfeng
     enable: true    #是否开启Gitalk评论
     clientID: 240624039eb6f2b079ec
     clientSecret: b255b099d214454020bd8944020b936103cc00e5
     repo: blog-comments
-    owner: hitpeterfeng
     admin: hitpeterfeng
     distractionFreeMode: true
     labels: ['Gitalk']
