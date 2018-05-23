@@ -93,8 +93,8 @@ comment:
 gitalk:
     enable: true    #是否开启Gitalk评论
     repo: hitpeterfeng.github.io    #仓库名称
-    clientID: 69baafa8abc6e773fba5
-    clientSecret: 098a6e49415b9e66161de4cab5ca30b4896c13cb
+    clientID: b61b15948969a2beef90
+    clientSecret: 8f99adf8018af749d1eec671dec74551e4f6920c
     owner: hitpeterfeng    #github用户名
     admin: hitpeterfeng
     distractionFreeMode: true #是否启用类似FB的阴影遮罩
