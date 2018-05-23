@@ -87,12 +87,12 @@ repository: hitpeterfeng/hitpeterfeng.github.io
 #      Comments    #
 # ---------------- #
 comment:
-    enable: true    #
+    enable: false    #
     disqus: disqus_8PR6LGWGVh
 
 gitalk:
     enable: true    #是否开启Gitalk评论
-    repo: hitpeterfeng.github.io    #仓库名称
+    repo: gittalk.github.io    #仓库名称
     clientID: b61b15948969a2beef90
     clientSecret: 8f99adf8018af749d1eec671dec74551e4f6920c
     owner: hitpeterfeng    #github用户名
