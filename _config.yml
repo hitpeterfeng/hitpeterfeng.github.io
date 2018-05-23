@@ -86,23 +86,11 @@ repository: hitpeterfeng/hitpeterfeng.github.io
 # ---------------- #
 #      Comments    #
 # ---------------- #
-comment:
-    enable: false    #
-    disqus: disqus_8PR6LGWGVh
-
-gitalk:
-    enable: true    #是否开启Gitalk评论
-    repo: gittalk.github.io    #仓库名称
-    clientID: b61b15948969a2beef90
-    clientSecret: 8f99adf8018af749d1eec671dec74551e4f6920c
-    owner: hitpeterfeng    #github用户名
-    admin: hitpeterfeng
-    distractionFreeMode: true #是否启用类似FB的阴影遮罩
 # support provider: disqus, gitment, gitalk
-# comments_provider: gitalk
-# # https://disqus.com
-# disqus:
-#    username: disqus_8PR6LGWGVh
+comments_provider: gitalk
+# https://disqus.com
+disqus:
+   username: disqus_hitpeterfeng
 # # https://imsun.net/posts/gitment-introduction/
 # gitment:
 #     owner: hitpeterfeng
@@ -111,11 +99,12 @@ gitalk:
 #         client_id: feb39c1d04715b966dc4
 #         client_secret: 52d70c3786f17bda45f9bef78e1d5ed9d98d23c1
 # # https://github.com/gitalk/gitalk#install
-# gitalk:
-#     owner: hitpeterfeng
-#     repo: blog-comments
-#     clientID: 69baafa8abc6e773fba5
-#     clientSecret: 098a6e49415b9e66161de4cab5ca30b4896c13cb
+gitalk:
+    owner: hitpeterfeng
+    repo: gittalk.github.io
+    clientID: b61b15948969a2beef90
+    clientSecret: 8f99adf8018af749d1eec671dec74551e4f6920c
+    distractionFreeMode: true
 # # 在使用其它评论组件时可点击显示 Disqus
 # lazy_load_disqus : false
 
