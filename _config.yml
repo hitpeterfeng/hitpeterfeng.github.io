@@ -109,8 +109,8 @@ repository: hitpeterfeng/hitpeterfeng.github.io
 #     labels: ['Gitalk']
 gitalk:
     enable: true    #是否开启Gitalk评论
-    clientID: 240624039eb6f2b079ec                            #生成的clientID
-    clientSecret: b255b099d214454020bd8944020b936103cc00e5    #生成的clientSecret
+    clientID: 240624039eb6f2b079ec
+    clientSecret: b255b099d214454020bd8944020b936103cc00e5
     repo: blog-comments.github.io    #仓库名称
     owner: hitpeterfeng    #github用户名
     admin: hitpeterfeng
