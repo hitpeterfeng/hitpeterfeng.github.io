@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: FENG Yang
 organization: undecided
-organization_url: www.google.com
+organization_url: www.baidu.com
 github_username: hitpeterfeng
 location: Beijing, China
 email: hit.yang.feng@gmail.com
@@ -109,5 +109,5 @@ simple_jekyll_search:
 # ---------------- #
 #    Analytics     #
 # ---------------- #
-# google:
-#     analytics_id: UA-80669434-1
+google:
+    analytics_id: UA-119881933-1

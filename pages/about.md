@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
+description: 梦想改变世界
 keywords: Learning
 comments: true
 menu: 关于
