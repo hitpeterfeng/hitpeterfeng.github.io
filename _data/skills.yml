@@ -1,6 +1,9 @@
-- name: Software Engineer Keywords
+- name: Computer Vision Keywords
   keywords:
-      - Java
-      - C++
+      - Machine Learning
+      - Image Recognition
+      - Object Detection
       - Python
-      - Design Patterns
+      - C++
+      - Tensorflow
+      - Pytorch
